@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'EpigraphHub_lib'
+project = 'EpigraphHub Library'
 copyright = '2022, Flávio Codeço Coelho'
 author = 'Flávio Codeço Coelho, Eduardo C. Araújo, Daniel C.P. Câmara'
 
@@ -31,10 +31,16 @@ release = '2022-01-01'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    'myst_parser',
+    # 'myst_parser',
     "sphinxcontrib.mermaid",
     "myst_nb",
 ]
+
+# source_suffix = {
+#     ".rst": "restructuredtext",
+#     ".txt": "markdown",
+#     ".md": "markdown",
+# }
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
