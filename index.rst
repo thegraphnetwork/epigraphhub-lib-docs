@@ -11,7 +11,9 @@ Welcome to EpigraphHub libraries documentation!
    :caption: Contents:
 
    overview
+   data
    Google Trends<trends.ipynb>
+   
 
 
 
