@@ -6,7 +6,7 @@ Welcome to EpigraphHub libraries documentation!
 The EpiGraphHub library is designed to provide external users with all of the analytical functionality used to power
 the EpiGraphHub platform and its applications. In fact, all applications designed to run on the EpiGraphHub platform rely heavily on it.
 
-This library should be used by users that want to contribute to the platform as well as by users that want the borrow
+This library should be used by users that want to contribute to the platform as well as by users that want to borrow
 some of the tools developed by our team in other opensource projects.
 
 The EpiGraphHub library is available both for the R_
