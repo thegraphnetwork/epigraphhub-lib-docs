@@ -11,5 +11,6 @@ pip install epigraphhub
 
 **R :**
 ```
-install.packages("epigraphhub")
+install.packages("devtools")
+devtools::install_github("thegraphnetwork/r-epigraphhub")
 ```
