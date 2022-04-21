@@ -36,7 +36,7 @@ extensions = [
     "myst_nb",
 ]
 
-jupyter_execute_notebooks = "auto"
+jupyter_execute_notebooks = "off"
 
 # source_suffix = {
 #     ".rst": "restructuredtext",
