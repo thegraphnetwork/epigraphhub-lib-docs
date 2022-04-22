@@ -8,3 +8,4 @@ Data  Collection and Manipulation
    data
    trends
    worldpop
+   worldbank
