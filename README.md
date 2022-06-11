@@ -1,5 +1,5 @@
 # epigraphhub-lib-docs
-Documentation for Both R and Python EpigraphHub  packages.
+[Documentation](https://epigraphhub-libraries.readthedocs.io/en/latest/) for Both R and Python EpigraphHub  packages.
 
 ## How to Build the documentation
 In order to build the documentation a few libraries must be installed.
