@@ -33,7 +33,7 @@ release = '2022-01-01'
 # ones.
 extensions = [
     "myst_nb",
-    'myst_parser',
+    # 'myst_parser',
 ]
 
 jupyter_execute_notebooks = "cache"
