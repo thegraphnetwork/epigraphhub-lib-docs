@@ -1,5 +1,6 @@
 sphinx
-myst-parser
+myst-parser>=0.17.2
 sphinxcontrib-mermaid
-myst_nb
+myst_nb>=0.14.0
 plotly
+pandas
