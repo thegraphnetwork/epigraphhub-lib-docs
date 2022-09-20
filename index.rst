@@ -22,6 +22,7 @@ and Python_ languages.
 
    getting_started
    Data Tools<data/index.rst>
+   Analysis Tools<analysis/index.rst>
    
 
 

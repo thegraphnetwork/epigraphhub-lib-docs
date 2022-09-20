@@ -32,8 +32,8 @@ release = '2022-01-01'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    # 'myst_parser',
     "myst_nb",
+    'myst_parser',
 ]
 
 jupyter_execute_notebooks = "cache"
@@ -43,6 +43,11 @@ jupyter_execute_notebooks = "cache"
 #     ".txt": "markdown",
 #     ".md": "markdown",
 # }
+
+myst_enable_extensions = [
+    "amsmath",
+    "deflist",
+]
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
