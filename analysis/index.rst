@@ -5,4 +5,7 @@ Epidemiological Data Analysis
    :maxdepth: 2
    :caption: Contents:
 
+   clustering
    epistats
+   ngboost_models
+   preprocessing
