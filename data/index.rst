@@ -6,8 +6,8 @@ Data  Collection and Manipulation
    :caption: Contents:
 
    data
-   foph
+   epigraphhub_db
    trends
    worldpop
    worldbank
-   epigraphhub_db
+
