@@ -6,6 +6,8 @@ Data  Collection and Manipulation
    :caption: Contents:
 
    data
+   epigraphhub_db
    trends
    worldpop
    worldbank
+
